@@ -42,19 +42,6 @@ SpoofLab is an advanced offensive security framework designed to simulate real-w
 - Train organizations against social engineering  
 
 ---
-
-## 🖼️ Screenshots
-
-> 📌 Add your real screenshots here
-
-```md
-![Server Mode](docs/screenshots/server.png)
-![Attack Execution](docs/screenshots/test.png)
-![Logs](docs/screenshots/logs.png)
-```
-
----
-
 ## 🎬 Demo
 
 ```bash
