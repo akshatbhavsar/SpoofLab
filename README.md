@@ -1,4 +1,4 @@
-# 💀 SpoofLab: Advanced Email Spoofing Detection and Simulation Framework
+# 💀 SpoofLab: How Email Addresses Get Spoofed
 
 ```bash
 ███████╗██████╗  ██████╗  ██████╗ ███████╗██╗      █████╗ ██████╗ 
@@ -8,7 +8,7 @@
 ███████║██║     ╚██████╔╝╚██████╔╝██║     ███████╗██║  ██║██████╔╝
 ╚══════╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═════╝ 
 
-   Advanced Email Spoofing Detection & Simulation Framework
+   Advanced Email Spoofing & Simulation Framework
    Red Team • Offensive Security • Authorized Testing Only
 ```
 
